@@ -1,0 +1,72 @@
+/*** SECTION: Background Image for index/contact/portolio ***/
+body {
+    background-image: url('https://assets-global.website-files.com/583347ca8f6c7ee058111b55/5d8a7036cb3bb923575604bf_design-portfolio-examples.jpg');
+    
+}
+
+
+/*** SECTION: Header on index/contact/portfolio ***/
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1 {
+    background-color: #068e97;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+#nav {
+    color: white;
+    background-color: #068e97;
+}
+/*************************************/
+
+
+/*** SECTION: Line break under 'About Me/Contact/Portfolio' ***/
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 5px 0;
+    padding: 5px;
+}
+/***************************************/
+
+
+/*** SECTION: Main body (image and text) alignment on index/contact/portfolio ***/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+    color: rgb(12, 12, 12);
+}
+/***************************************/
+
+
+/*** SECTION: Alignment of text and image on index.html ***/
+/*About Me: display characteristics*/
+.container {
+    border-radius: 5px;  
+    background-color: rgb(186, 243, 245);
+}
+
+.container .row h1 {
+    color: #2835e7;
+    margin-left: 35px;
+}
+
+/*Picture: moved to the left*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+/**************************************/
+
+
+
