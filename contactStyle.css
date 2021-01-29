@@ -14,7 +14,7 @@ header {
 }
 
 header h1 {
-    background-color: #068e97;
+    background-color: #007bff;
     margin-left: 20px;
     border-radius: 5px;
 }
@@ -56,7 +56,7 @@ hr {
 }
 
 .container .row h1 {
-    color: #2835e7;
+    color: #007bff;
     margin-left: 35px;
 }
 
